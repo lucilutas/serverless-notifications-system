@@ -1,0 +1,7 @@
+node_modules
+.serverless
+.express
+.webpack
+package-lock.json
+env_vars.yml
+.deploy/gcp_credentials.json
